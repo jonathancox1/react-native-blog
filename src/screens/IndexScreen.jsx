@@ -41,10 +41,10 @@ const styles = StyleSheet.create({
         borderColor: 'grey',
     },
     title: {
-        fontSize: 18
+        fontSize: 20
     },
     icon: {
-        fontSize: 24
+        fontSize: 30
     }
 })
 
